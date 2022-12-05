@@ -10,7 +10,6 @@ def ktofc(kelvin):
    celsius=kelvin - 273.15
    farenheit= celsius*(9/5) + 32
    print("celsius =",celsius,"kelvin =",kelvin,"farenheit =",farenheit)   
-
 print("Enter the choice")
 print("1: celsius to convert farenheit and kelvin")
 print("2: farenheit to convert celsius and kelvin")
